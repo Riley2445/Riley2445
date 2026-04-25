@@ -2,7 +2,7 @@
 
 ## 🎯 About Me
 
-<img align="right" width="300" src="me.png" alt="Data Science & Analytics Professional">
+<img align="top" width="300" src="me.png" alt="Data Science & Analytics Professional">
 
 I'm a **Production Scheduler** by day and a **Graduate Student in Data Science** by night. I bridge the gap between enterprise operations and data-driven decision making.
 
