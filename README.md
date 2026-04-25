@@ -33,7 +33,7 @@ A comprehensive core banking system conversion project involving the orchestrati
 
 ### 🛍️ Customer Segmentation & Clustering Analysis
 **Type:** Machine Learning Project
-* **[Mall Customer Segmentation](https://github.com/your-username/Customer-Segmentation-Analysis)**
+* **[Mall Customer Segmentation](https://github.com/Riley2445/Mall-Customer-Segmentation-K-Means-Clustering/blob/main/Unsupervised%20Learning%20Homework.ipynb)**
 
 Discovered natural customer groupings within a retail dataset using unsupervised learning techniques.
 
