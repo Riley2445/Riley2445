@@ -33,6 +33,7 @@ A comprehensive core banking system conversion project involving the orchestrati
 
 ### 🛍️ Customer Segmentation & Clustering Analysis
 **Type:** Machine Learning Project
+* **[Mall Customer Segmentation](https://github.com/your-username/Customer-Segmentation-Analysis)**
 
 Discovered natural customer groupings within a retail dataset using unsupervised learning techniques.
 
@@ -46,6 +47,7 @@ Discovered natural customer groupings within a retail dataset using unsupervised
 
 ### 👥 Workforce Retention Analysis
 **Type:** Data Visualization & Analytics Project
+* **[IBM HR Attrition Visualization](https://github.com/your-username/Data-Viz-Project)**
 
 Analyzed workforce data to identify key factors impacting employee retention and satisfaction.
 
@@ -56,8 +58,7 @@ Analyzed workforce data to identify key factors impacting employee retention and
 
 ### 🏠 Apartments for Rent Dataset Analysis
 **Type:** Real-World Dataset Analysis
-
-Comprehensive analysis of rental market dynamics and price prediction factors.
+* **[Apartment Rent Prediction](https://github.com/your-username/Apartment-Rent-Analysis)**
 
 **Dataset:** `apartments_for_rent.csv` (10,000 instances)  
 **Target Variable:** Price  
