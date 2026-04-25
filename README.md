@@ -58,7 +58,7 @@ Analyzed workforce data to identify key factors impacting employee retention and
 
 ### 🏠 Apartments for Rent Dataset Analysis
 **Type:** Real-World Dataset Analysis
-* **[Apartment Rent Prediction](https://github.com/your-username/Apartment-Rent-Analysis)**
+* **[Apartment Rent Prediction](https://github.com/Riley2445/Apartment-Rent-Prediction-Machine-Learning-Pipeline)**
 
 **Dataset:** `apartments_for_rent.csv` (10,000 instances)  
 **Target Variable:** Price  
